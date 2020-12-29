@@ -4,6 +4,9 @@ using System.Collections.Generic;
 
 namespace ENode.Messageing
 {
+    /// <summary>
+    /// 表示抽象消息
+    /// </summary>
     [Serializable]
     public abstract class Message : IMessage
     {

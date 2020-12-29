@@ -1,11 +1,9 @@
 ﻿using ENode.Eventing;
 using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace ENode.Domain
 {
-    public interface IAggregateRootInternalHanderProvider
+    public interface IAggregateRootInternalHandlerProvider
     {
         Action<IAggregateRoot, IDomainEvent> GetInternalEventHandler(Type aggregateRootType, Type eventType);
     }

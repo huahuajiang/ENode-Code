@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JoiPJBYb5iTDL2hue1xa3teHjZxEHyOtvQeTihmKCAHsWct6v/tFS9b8jLkp42VMpvHWinKftE64mM6ZcxH6bA==",
+  "success": true,
+  "projectFilePath": "E:\\VSWork\\ENode-Code\\NoteSample.CommandHandler\\NoteSample.CommandHandler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LIUJUNHUA\\.nuget\\packages\\ecommon\\2.6.4\\ecommon.2.6.4.nupkg.sha512",
+    "C:\\Users\\LIUJUNHUA\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\LIUJUNHUA\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

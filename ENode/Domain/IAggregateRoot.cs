@@ -1,13 +1,11 @@
 ﻿using ENode.Eventing;
-using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace ENode.Domain
 {
     public interface IAggregateRoot
     {
-        string UniqueId { get; set; }
+        string UniqueId { get; }
 
         int Version { get; }
 
