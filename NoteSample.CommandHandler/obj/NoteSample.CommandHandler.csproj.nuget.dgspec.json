@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\VSWork\\ENode-Code\\NoteSample.CommandHandler\\NoteSample.CommandHandler.csproj": {}
+    "E:\\My VS Work\\ENode-Code\\NoteSample.CommandHandler\\NoteSample.CommandHandler.csproj": {}
   },
   "projects": {
-    "E:\\VSWork\\ENode-Code\\ENode\\ENode.csproj": {
+    "E:\\My VS Work\\ENode-Code\\ENode\\ENode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\VSWork\\ENode-Code\\ENode\\ENode.csproj",
+        "projectUniqueName": "E:\\My VS Work\\ENode-Code\\ENode\\ENode.csproj",
         "projectName": "ENode",
-        "projectPath": "E:\\VSWork\\ENode-Code\\ENode\\ENode.csproj",
-        "packagesPath": "C:\\Users\\LIUJUNHUA\\.nuget\\packages\\",
-        "outputPath": "E:\\VSWork\\ENode-Code\\ENode\\obj\\",
+        "projectPath": "E:\\My VS Work\\ENode-Code\\ENode\\ENode.csproj",
+        "packagesPath": "C:\\Users\\98092\\.nuget\\packages\\",
+        "outputPath": "E:\\My VS Work\\ENode-Code\\ENode\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LIUJUNHUA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\98092\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +26,6 @@
         },
         "frameworks": {
           "netstandard2.0": {
-            "targetAlias": "netstandard2.0",
             "projectReferences": {}
           }
         },
@@ -38,7 +37,6 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "targetAlias": "netstandard2.0",
           "dependencies": {
             "NETStandard.Library": {
               "suppressParent": "All",
@@ -61,21 +59,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\VSWork\\ENode-Code\\NoteSample.CommandHandler\\NoteSample.CommandHandler.csproj": {
+    "E:\\My VS Work\\ENode-Code\\NoteSample.CommandHandler\\NoteSample.CommandHandler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\VSWork\\ENode-Code\\NoteSample.CommandHandler\\NoteSample.CommandHandler.csproj",
+        "projectUniqueName": "E:\\My VS Work\\ENode-Code\\NoteSample.CommandHandler\\NoteSample.CommandHandler.csproj",
         "projectName": "NoteSample.CommandHandler",
-        "projectPath": "E:\\VSWork\\ENode-Code\\NoteSample.CommandHandler\\NoteSample.CommandHandler.csproj",
-        "packagesPath": "C:\\Users\\LIUJUNHUA\\.nuget\\packages\\",
-        "outputPath": "E:\\VSWork\\ENode-Code\\NoteSample.CommandHandler\\obj\\",
+        "projectPath": "E:\\My VS Work\\ENode-Code\\NoteSample.CommandHandler\\NoteSample.CommandHandler.csproj",
+        "packagesPath": "C:\\Users\\98092\\.nuget\\packages\\",
+        "outputPath": "E:\\My VS Work\\ENode-Code\\NoteSample.CommandHandler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LIUJUNHUA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\98092\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -87,16 +85,15 @@
         },
         "frameworks": {
           "netstandard2.0": {
-            "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "E:\\VSWork\\ENode-Code\\ENode\\ENode.csproj": {
-                "projectPath": "E:\\VSWork\\ENode-Code\\ENode\\ENode.csproj"
+              "E:\\My VS Work\\ENode-Code\\ENode\\ENode.csproj": {
+                "projectPath": "E:\\My VS Work\\ENode-Code\\ENode\\ENode.csproj"
               },
-              "E:\\VSWork\\ENode-Code\\NoteSample.Commands\\NoteSample.Commands.csproj": {
-                "projectPath": "E:\\VSWork\\ENode-Code\\NoteSample.Commands\\NoteSample.Commands.csproj"
+              "E:\\My VS Work\\ENode-Code\\NoteSample.Commands\\NoteSample.Commands.csproj": {
+                "projectPath": "E:\\My VS Work\\ENode-Code\\NoteSample.Commands\\NoteSample.Commands.csproj"
               },
-              "E:\\VSWork\\ENode-Code\\NoteSample.Domain\\NoteSample.Domain.csproj": {
-                "projectPath": "E:\\VSWork\\ENode-Code\\NoteSample.Domain\\NoteSample.Domain.csproj"
+              "E:\\My VS Work\\ENode-Code\\NoteSample.Domain\\NoteSample.Domain.csproj": {
+                "projectPath": "E:\\My VS Work\\ENode-Code\\NoteSample.Domain\\NoteSample.Domain.csproj"
               }
             }
           }
@@ -109,7 +106,6 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "targetAlias": "netstandard2.0",
           "dependencies": {
             "NETStandard.Library": {
               "suppressParent": "All",
@@ -128,21 +124,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\VSWork\\ENode-Code\\NoteSample.Commands\\NoteSample.Commands.csproj": {
+    "E:\\My VS Work\\ENode-Code\\NoteSample.Commands\\NoteSample.Commands.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\VSWork\\ENode-Code\\NoteSample.Commands\\NoteSample.Commands.csproj",
+        "projectUniqueName": "E:\\My VS Work\\ENode-Code\\NoteSample.Commands\\NoteSample.Commands.csproj",
         "projectName": "NoteSample.Commands",
-        "projectPath": "E:\\VSWork\\ENode-Code\\NoteSample.Commands\\NoteSample.Commands.csproj",
-        "packagesPath": "C:\\Users\\LIUJUNHUA\\.nuget\\packages\\",
-        "outputPath": "E:\\VSWork\\ENode-Code\\NoteSample.Commands\\obj\\",
+        "projectPath": "E:\\My VS Work\\ENode-Code\\NoteSample.Commands\\NoteSample.Commands.csproj",
+        "packagesPath": "C:\\Users\\98092\\.nuget\\packages\\",
+        "outputPath": "E:\\My VS Work\\ENode-Code\\NoteSample.Commands\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LIUJUNHUA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\98092\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -154,10 +150,9 @@
         },
         "frameworks": {
           "netstandard2.0": {
-            "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "E:\\VSWork\\ENode-Code\\ENode\\ENode.csproj": {
-                "projectPath": "E:\\VSWork\\ENode-Code\\ENode\\ENode.csproj"
+              "E:\\My VS Work\\ENode-Code\\ENode\\ENode.csproj": {
+                "projectPath": "E:\\My VS Work\\ENode-Code\\ENode\\ENode.csproj"
               }
             }
           }
@@ -170,7 +165,6 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "targetAlias": "netstandard2.0",
           "dependencies": {
             "NETStandard.Library": {
               "suppressParent": "All",
@@ -189,21 +183,21 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\VSWork\\ENode-Code\\NoteSample.Domain\\NoteSample.Domain.csproj": {
+    "E:\\My VS Work\\ENode-Code\\NoteSample.Domain\\NoteSample.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\VSWork\\ENode-Code\\NoteSample.Domain\\NoteSample.Domain.csproj",
+        "projectUniqueName": "E:\\My VS Work\\ENode-Code\\NoteSample.Domain\\NoteSample.Domain.csproj",
         "projectName": "NoteSample.Domain",
-        "projectPath": "E:\\VSWork\\ENode-Code\\NoteSample.Domain\\NoteSample.Domain.csproj",
-        "packagesPath": "C:\\Users\\LIUJUNHUA\\.nuget\\packages\\",
-        "outputPath": "E:\\VSWork\\ENode-Code\\NoteSample.Domain\\obj\\",
+        "projectPath": "E:\\My VS Work\\ENode-Code\\NoteSample.Domain\\NoteSample.Domain.csproj",
+        "packagesPath": "C:\\Users\\98092\\.nuget\\packages\\",
+        "outputPath": "E:\\My VS Work\\ENode-Code\\NoteSample.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\LIUJUNHUA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\98092\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -215,10 +209,9 @@
         },
         "frameworks": {
           "netstandard2.0": {
-            "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "E:\\VSWork\\ENode-Code\\ENode\\ENode.csproj": {
-                "projectPath": "E:\\VSWork\\ENode-Code\\ENode\\ENode.csproj"
+              "E:\\My VS Work\\ENode-Code\\ENode\\ENode.csproj": {
+                "projectPath": "E:\\My VS Work\\ENode-Code\\ENode\\ENode.csproj"
               }
             }
           }
@@ -231,7 +224,6 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "targetAlias": "netstandard2.0",
           "dependencies": {
             "NETStandard.Library": {
               "suppressParent": "All",
@@ -250,7 +242,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
