@@ -4,4 +4,10 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ENode\ENode.csproj" />
+    <ProjectReference Include="..\NoteSample.Commands\NoteSample.Commands.csproj" />
+    <ProjectReference Include="..\NoteSample.Domain\NoteSample.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
