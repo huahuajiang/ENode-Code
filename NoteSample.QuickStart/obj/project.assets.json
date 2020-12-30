@@ -1,26 +1,137 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "ECommon/2.6.4": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/ECommon.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/ECommon.dll": {}
+        }
+      },
+      "EQueue/2.6.2": {
+        "type": "package",
+        "dependencies": {
+          "ECommon": "2.6.3"
+        },
+        "compile": {
+          "lib/netstandard2.0/EQueue.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/EQueue.dll": {}
+        }
+      },
+      "ENode/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "ecommon": "2.6.4"
+        },
+        "compile": {
+          "bin/placeholder/ENode.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ENode.dll": {}
+        }
+      },
+      "ENode.EQueue/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "ENode": "1.0.0",
+          "equeue": "2.6.2"
+        },
+        "compile": {
+          "bin/placeholder/ENode.EQueue.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ENode.EQueue.dll": {}
+        }
+      },
+      "NoteSample.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "ENode": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/NoteSample.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NoteSample.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ECommon/2.6.4": {
+      "sha512": "O9kNxffNxmlDukhTsM9INi5sSR4nNJF7O0IJhwJ5nbJONTBb86LgErVyNiLzO6abHNYrfdQm67xlN6Kznmr8AQ==",
+      "type": "package",
+      "path": "ecommon/2.6.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ECommon.2.6.4.nupkg.sha512",
+        "ECommon.nuspec",
+        "lib/netstandard2.0/ECommon.dll",
+        "lib/netstandard2.0/ECommon.pdb",
+        "lib/netstandard2.0/ECommon.xml"
+      ]
+    },
+    "EQueue/2.6.2": {
+      "sha512": "teNRqjbOKCFFq+fsJjHne9NzWQ/Lyd/Zf2flo9zpDLvePTbfgat3hZQcqvAz5k27pFuVIUEyrbQO/cy3QgpIMA==",
+      "type": "package",
+      "path": "equeue/2.6.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "EQueue.2.6.2.nupkg.sha512",
+        "EQueue.nuspec",
+        "lib/netstandard2.0/EQueue.dll",
+        "lib/netstandard2.0/EQueue.pdb",
+        "lib/netstandard2.0/EQueue.xml"
+      ]
+    },
+    "ENode/1.0.0": {
+      "type": "project",
+      "path": "../ENode/ENode.csproj",
+      "msbuildProject": "../ENode/ENode.csproj"
+    },
+    "ENode.EQueue/1.0.0": {
+      "type": "project",
+      "path": "../ENode.EQueue/ENode.EQueue.csproj",
+      "msbuildProject": "../ENode.EQueue/ENode.EQueue.csproj"
+    },
+    "NoteSample.Domain/1.0.0": {
+      "type": "project",
+      "path": "../NoteSample.Domain/NoteSample.Domain.csproj",
+      "msbuildProject": "../NoteSample.Domain/NoteSample.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "ENode >= 1.0.0",
+      "ENode.EQueue >= 1.0.0",
+      "NoteSample.Domain >= 1.0.0",
+      "equeue >= 2.6.2"
+    ]
   },
   "packageFolders": {
-    "C:\\Users\\98092\\.nuget\\packages\\": {}
+    "C:\\Users\\LIUJUNHUA\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\My VS Work\\ENode-Code\\NoteSample.QuickStart\\NoteSample.QuickStart.csproj",
+      "projectUniqueName": "E:\\VSWork\\ENode-Code\\NoteSample.QuickStart\\NoteSample.QuickStart.csproj",
       "projectName": "NoteSample.QuickStart",
-      "projectPath": "E:\\My VS Work\\ENode-Code\\NoteSample.QuickStart\\NoteSample.QuickStart.csproj",
-      "packagesPath": "C:\\Users\\98092\\.nuget\\packages\\",
-      "outputPath": "E:\\My VS Work\\ENode-Code\\NoteSample.QuickStart\\obj\\",
+      "projectPath": "E:\\VSWork\\ENode-Code\\NoteSample.QuickStart\\NoteSample.QuickStart.csproj",
+      "packagesPath": "C:\\Users\\LIUJUNHUA\\.nuget\\packages\\",
+      "outputPath": "E:\\VSWork\\ENode-Code\\NoteSample.QuickStart\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\98092\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LIUJUNHUA\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,7 +143,18 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "E:\\VSWork\\ENode-Code\\ENode.EQueue\\ENode.EQueue.csproj": {
+              "projectPath": "E:\\VSWork\\ENode-Code\\ENode.EQueue\\ENode.EQueue.csproj"
+            },
+            "E:\\VSWork\\ENode-Code\\ENode\\ENode.csproj": {
+              "projectPath": "E:\\VSWork\\ENode-Code\\ENode\\ENode.csproj"
+            },
+            "E:\\VSWork\\ENode-Code\\NoteSample.Domain\\NoteSample.Domain.csproj": {
+              "projectPath": "E:\\VSWork\\ENode-Code\\NoteSample.Domain\\NoteSample.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -43,6 +165,13 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "equeue": {
+            "target": "Package",
+            "version": "[2.6.2, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
@@ -58,7 +187,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

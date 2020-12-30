@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "f00IJQmo2E3cz+BO2voc63tp7y2EpjjFuMU4k5LT1IEINJLgCYpAqcrzmtaN0C1qsS8joNc2LT0r8GqOmiXmHg==",
+  "dgSpecHash": "DTN6EwUoPZN8zQHucu5KiJMfbQOUHtki9zx+3m4baD8g7ETS2xKtWZG3M0DzEhH3/mtSMK6A4CXSsrjL9uCp+w==",
   "success": true,
-  "projectFilePath": "E:\\My VS Work\\ENode-Code\\NoteSample.QuickStart\\NoteSample.QuickStart.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\VSWork\\ENode-Code\\NoteSample.QuickStart\\NoteSample.QuickStart.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LIUJUNHUA\\.nuget\\packages\\ecommon\\2.6.4\\ecommon.2.6.4.nupkg.sha512",
+    "C:\\Users\\LIUJUNHUA\\.nuget\\packages\\equeue\\2.6.2\\equeue.2.6.2.nupkg.sha512"
+  ],
   "logs": []
 }

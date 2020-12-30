@@ -5,4 +5,14 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="equeue" Version="2.6.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ENode.EQueue\ENode.EQueue.csproj" />
+    <ProjectReference Include="..\ENode\ENode.csproj" />
+    <ProjectReference Include="..\NoteSample.Domain\NoteSample.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

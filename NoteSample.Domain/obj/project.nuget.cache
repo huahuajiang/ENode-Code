@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "sC8Hp+PLpYkfx2jqyxkbVTxB+pdhJn9FphCjG/baTtqxFTR9kfoPhUSJTcBT7jvPG4AevfmovX3MOgMQoPs0Bw==",
+  "dgSpecHash": "9PtW6jBEodWo5627uNQwZmX6rCVT+a7KV9aLLoPo7to6JYZuQu8EFU+9h6lCOYS/yOPWvQ1xyc27n9ChltGS2Q==",
   "success": true,
-  "projectFilePath": "E:\\My VS Work\\ENode-Code\\NoteSample.Domain\\NoteSample.Domain.csproj",
+  "projectFilePath": "E:\\VSWork\\ENode-Code\\NoteSample.Domain\\NoteSample.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\98092\\.nuget\\packages\\ecommon\\2.6.4\\ecommon.2.6.4.nupkg.sha512",
-    "C:\\Users\\98092\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\98092\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\LIUJUNHUA\\.nuget\\packages\\ecommon\\2.6.4\\ecommon.2.6.4.nupkg.sha512",
+    "C:\\Users\\LIUJUNHUA\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\LIUJUNHUA\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
