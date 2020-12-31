@@ -1,0 +1,12 @@
+E:\VSWork\ENode-Code\NoteSample.Domain\bin\Debug\netstandard2.0\NoteSample.Domain.deps.json
+E:\VSWork\ENode-Code\NoteSample.Domain\bin\Debug\netstandard2.0\NoteSample.Domain.dll
+E:\VSWork\ENode-Code\NoteSample.Domain\bin\Debug\netstandard2.0\NoteSample.Domain.pdb
+E:\VSWork\ENode-Code\NoteSample.Domain\bin\Debug\netstandard2.0\ENode.dll
+E:\VSWork\ENode-Code\NoteSample.Domain\bin\Debug\netstandard2.0\ENode.pdb
+E:\VSWork\ENode-Code\NoteSample.Domain\obj\Debug\netstandard2.0\NoteSample.Domain.csprojAssemblyReference.cache
+E:\VSWork\ENode-Code\NoteSample.Domain\obj\Debug\netstandard2.0\NoteSample.Domain.AssemblyInfoInputs.cache
+E:\VSWork\ENode-Code\NoteSample.Domain\obj\Debug\netstandard2.0\NoteSample.Domain.AssemblyInfo.cs
+E:\VSWork\ENode-Code\NoteSample.Domain\obj\Debug\netstandard2.0\NoteSample.Domain.csproj.CoreCompileInputs.cache
+E:\VSWork\ENode-Code\NoteSample.Domain\obj\Debug\netstandard2.0\NoteSample.Domain.csproj.CopyComplete
+E:\VSWork\ENode-Code\NoteSample.Domain\obj\Debug\netstandard2.0\NoteSample.Domain.dll
+E:\VSWork\ENode-Code\NoteSample.Domain\obj\Debug\netstandard2.0\NoteSample.Domain.pdb

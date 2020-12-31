@@ -1,0 +1,9 @@
+E:\VSWork\ENode-Code\ENode\bin\Debug\netstandard2.0\ENode.deps.json
+E:\VSWork\ENode-Code\ENode\bin\Debug\netstandard2.0\ENode.dll
+E:\VSWork\ENode-Code\ENode\bin\Debug\netstandard2.0\ENode.pdb
+E:\VSWork\ENode-Code\ENode\obj\Debug\netstandard2.0\ENode.csprojAssemblyReference.cache
+E:\VSWork\ENode-Code\ENode\obj\Debug\netstandard2.0\ENode.AssemblyInfoInputs.cache
+E:\VSWork\ENode-Code\ENode\obj\Debug\netstandard2.0\ENode.AssemblyInfo.cs
+E:\VSWork\ENode-Code\ENode\obj\Debug\netstandard2.0\ENode.csproj.CoreCompileInputs.cache
+E:\VSWork\ENode-Code\ENode\obj\Debug\netstandard2.0\ENode.dll
+E:\VSWork\ENode-Code\ENode\obj\Debug\netstandard2.0\ENode.pdb

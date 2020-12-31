@@ -1,0 +1,16 @@
+E:\VSWork\ENode-Code\NoteSample.CommandHandler\bin\Debug\netstandard2.0\NoteSample.CommandHandler.deps.json
+E:\VSWork\ENode-Code\NoteSample.CommandHandler\bin\Debug\netstandard2.0\NoteSample.CommandHandler.dll
+E:\VSWork\ENode-Code\NoteSample.CommandHandler\bin\Debug\netstandard2.0\NoteSample.CommandHandler.pdb
+E:\VSWork\ENode-Code\NoteSample.CommandHandler\bin\Debug\netstandard2.0\ENode.dll
+E:\VSWork\ENode-Code\NoteSample.CommandHandler\bin\Debug\netstandard2.0\NoteSample.Commands.dll
+E:\VSWork\ENode-Code\NoteSample.CommandHandler\bin\Debug\netstandard2.0\NoteSample.Domain.dll
+E:\VSWork\ENode-Code\NoteSample.CommandHandler\bin\Debug\netstandard2.0\ENode.pdb
+E:\VSWork\ENode-Code\NoteSample.CommandHandler\bin\Debug\netstandard2.0\NoteSample.Commands.pdb
+E:\VSWork\ENode-Code\NoteSample.CommandHandler\bin\Debug\netstandard2.0\NoteSample.Domain.pdb
+E:\VSWork\ENode-Code\NoteSample.CommandHandler\obj\Debug\netstandard2.0\NoteSample.CommandHandler.csprojAssemblyReference.cache
+E:\VSWork\ENode-Code\NoteSample.CommandHandler\obj\Debug\netstandard2.0\NoteSample.CommandHandler.AssemblyInfoInputs.cache
+E:\VSWork\ENode-Code\NoteSample.CommandHandler\obj\Debug\netstandard2.0\NoteSample.CommandHandler.AssemblyInfo.cs
+E:\VSWork\ENode-Code\NoteSample.CommandHandler\obj\Debug\netstandard2.0\NoteSample.CommandHandler.csproj.CoreCompileInputs.cache
+E:\VSWork\ENode-Code\NoteSample.CommandHandler\obj\Debug\netstandard2.0\NoteSample.CommandHandler.csproj.CopyComplete
+E:\VSWork\ENode-Code\NoteSample.CommandHandler\obj\Debug\netstandard2.0\NoteSample.CommandHandler.dll
+E:\VSWork\ENode-Code\NoteSample.CommandHandler\obj\Debug\netstandard2.0\NoteSample.CommandHandler.pdb

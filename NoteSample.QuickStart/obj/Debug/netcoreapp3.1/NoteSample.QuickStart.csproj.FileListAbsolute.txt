@@ -5,3 +5,4 @@ E:\VSWork\ENode-Code\NoteSample.QuickStart\bin\Debug\netcoreapp3.1\NoteSample.Do
 E:\VSWork\ENode-Code\NoteSample.QuickStart\obj\Debug\netcoreapp3.1\NoteSample.QuickStart.csprojAssemblyReference.cache
 E:\VSWork\ENode-Code\NoteSample.QuickStart\obj\Debug\netcoreapp3.1\NoteSample.QuickStart.AssemblyInfoInputs.cache
 E:\VSWork\ENode-Code\NoteSample.QuickStart\obj\Debug\netcoreapp3.1\NoteSample.QuickStart.AssemblyInfo.cs
+E:\VSWork\ENode-Code\NoteSample.QuickStart\obj\Debug\netcoreapp3.1\NoteSample.QuickStart.csproj.CoreCompileInputs.cache

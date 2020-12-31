@@ -1,0 +1,12 @@
+E:\VSWork\ENode-Code\NoteSample.Commands\bin\Debug\netstandard2.0\NoteSample.Commands.deps.json
+E:\VSWork\ENode-Code\NoteSample.Commands\bin\Debug\netstandard2.0\NoteSample.Commands.dll
+E:\VSWork\ENode-Code\NoteSample.Commands\bin\Debug\netstandard2.0\NoteSample.Commands.pdb
+E:\VSWork\ENode-Code\NoteSample.Commands\bin\Debug\netstandard2.0\ENode.dll
+E:\VSWork\ENode-Code\NoteSample.Commands\bin\Debug\netstandard2.0\ENode.pdb
+E:\VSWork\ENode-Code\NoteSample.Commands\obj\Debug\netstandard2.0\NoteSample.Commands.csprojAssemblyReference.cache
+E:\VSWork\ENode-Code\NoteSample.Commands\obj\Debug\netstandard2.0\NoteSample.Commands.AssemblyInfoInputs.cache
+E:\VSWork\ENode-Code\NoteSample.Commands\obj\Debug\netstandard2.0\NoteSample.Commands.AssemblyInfo.cs
+E:\VSWork\ENode-Code\NoteSample.Commands\obj\Debug\netstandard2.0\NoteSample.Commands.csproj.CoreCompileInputs.cache
+E:\VSWork\ENode-Code\NoteSample.Commands\obj\Debug\netstandard2.0\NoteSample.Commands.csproj.CopyComplete
+E:\VSWork\ENode-Code\NoteSample.Commands\obj\Debug\netstandard2.0\NoteSample.Commands.dll
+E:\VSWork\ENode-Code\NoteSample.Commands\obj\Debug\netstandard2.0\NoteSample.Commands.pdb
