@@ -119,19 +119,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LIUJUNHUA\\.nuget\\packages\\": {}
+    "C:\\Users\\98092\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\VSWork\\ENode-Code\\NoteSample.QuickStart\\NoteSample.QuickStart.csproj",
+      "projectUniqueName": "E:\\My VS Work\\ENode-Code\\NoteSample.QuickStart\\NoteSample.QuickStart.csproj",
       "projectName": "NoteSample.QuickStart",
-      "projectPath": "E:\\VSWork\\ENode-Code\\NoteSample.QuickStart\\NoteSample.QuickStart.csproj",
-      "packagesPath": "C:\\Users\\LIUJUNHUA\\.nuget\\packages\\",
-      "outputPath": "E:\\VSWork\\ENode-Code\\NoteSample.QuickStart\\obj\\",
+      "projectPath": "E:\\My VS Work\\ENode-Code\\NoteSample.QuickStart\\NoteSample.QuickStart.csproj",
+      "packagesPath": "C:\\Users\\98092\\.nuget\\packages\\",
+      "outputPath": "E:\\My VS Work\\ENode-Code\\NoteSample.QuickStart\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\LIUJUNHUA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\98092\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -143,16 +143,15 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "E:\\VSWork\\ENode-Code\\ENode.EQueue\\ENode.EQueue.csproj": {
-              "projectPath": "E:\\VSWork\\ENode-Code\\ENode.EQueue\\ENode.EQueue.csproj"
+            "E:\\My VS Work\\ENode-Code\\ENode.EQueue\\ENode.EQueue.csproj": {
+              "projectPath": "E:\\My VS Work\\ENode-Code\\ENode.EQueue\\ENode.EQueue.csproj"
             },
-            "E:\\VSWork\\ENode-Code\\ENode\\ENode.csproj": {
-              "projectPath": "E:\\VSWork\\ENode-Code\\ENode\\ENode.csproj"
+            "E:\\My VS Work\\ENode-Code\\ENode\\ENode.csproj": {
+              "projectPath": "E:\\My VS Work\\ENode-Code\\ENode\\ENode.csproj"
             },
-            "E:\\VSWork\\ENode-Code\\NoteSample.Domain\\NoteSample.Domain.csproj": {
-              "projectPath": "E:\\VSWork\\ENode-Code\\NoteSample.Domain\\NoteSample.Domain.csproj"
+            "E:\\My VS Work\\ENode-Code\\NoteSample.Domain\\NoteSample.Domain.csproj": {
+              "projectPath": "E:\\My VS Work\\ENode-Code\\NoteSample.Domain\\NoteSample.Domain.csproj"
             }
           }
         }
@@ -165,7 +164,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "equeue": {
             "target": "Package",
@@ -187,7 +185,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

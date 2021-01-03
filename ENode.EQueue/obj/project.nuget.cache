@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "l8VuI2vUOK7JbE3Zn4ocNFhLO76Hd4enAET+Dn54iWZ3vZ62gP9wha9FCIiFur0UqWFGDfQUH0Xij47fpxtz8A==",
+  "dgSpecHash": "rz8uc6D5saZ9AkACchRVTCp9fwC5XqmJe+zD2ltH2O2WjhFAdkZEeuJzppV32b3FIDW16b1V5xovKcW2nhTIDw==",
   "success": true,
-  "projectFilePath": "E:\\VSWork\\ENode-Code\\ENode.EQueue\\ENode.EQueue.csproj",
+  "projectFilePath": "E:\\My VS Work\\ENode-Code\\ENode.EQueue\\ENode.EQueue.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\LIUJUNHUA\\.nuget\\packages\\ecommon\\2.6.4\\ecommon.2.6.4.nupkg.sha512",
-    "C:\\Users\\LIUJUNHUA\\.nuget\\packages\\equeue\\2.6.2\\equeue.2.6.2.nupkg.sha512",
-    "C:\\Users\\LIUJUNHUA\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\LIUJUNHUA\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\98092\\.nuget\\packages\\ecommon\\2.6.4\\ecommon.2.6.4.nupkg.sha512",
+    "C:\\Users\\98092\\.nuget\\packages\\equeue\\2.6.2\\equeue.2.6.2.nupkg.sha512",
+    "C:\\Users\\98092\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\98092\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
